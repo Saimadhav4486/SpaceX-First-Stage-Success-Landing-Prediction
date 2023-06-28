@@ -1,0 +1,2 @@
+This project aims to predict the success of SpaceX first stage landings using machine learning techniques. The landing success of the first stage is a critical factor in the reusability and cost-effectiveness of SpaceX rockets. By analyzing historical data and building a predictive model, we can gain insights into the factors that influence landing success and potentially forecast future outcomes.
+This project also has an UI to interact with users for taking inputs. An wholesome project which has a web integration for machine learning model using flask.
